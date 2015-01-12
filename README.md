@@ -1,6 +1,9 @@
 g2 Functional Tests
 =============================
 
+Python version needed: 2.4
+current RPM: https://ci.dcache.org/view/Test%20Suite/job/Build-G2/
+
 How to run the tests:
 
 1. Make sure you're environment is sane.
